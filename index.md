@@ -25,6 +25,8 @@ Base Tools
 
 -   [Latest Stable](https://wordpress.org/download/) - wordpress.org
 -   [Nightly](https://wordpress.org/download/nightly/) - wordpress.org
+-   [Official WordPress Site](https://wordpress.org/) - wordpress.org
+
 
 ##### Revision control (stable) - These builds roll the latest commits.
 
